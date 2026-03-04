@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="button_corner_radius">24dp</dimen>
+    <dimen name="input_corner_radius">12dp</dimen>
+    <dimen name="card_elevation">0dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+    <dimen name="course_image_height">120dp</dimen>
+    <dimen name="rating_badge_padding_h">8dp</dimen>
+    <dimen name="rating_badge_padding_v">4dp</dimen>
+</resources>

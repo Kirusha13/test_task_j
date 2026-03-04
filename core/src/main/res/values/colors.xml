@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_dark">#FF151528</color>
+    <color name="surface_dark">#FF24243D</color>
+    <color name="primary_green">#FF3ECE5C</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFB0B0C0</color>
+    <color name="text_hint">#FF6B6B80</color>
+    <color name="input_background">#FF32324D</color>
+    <color name="vk_blue">#FF4C75A3</color>
+    <color name="ok_orange">#FFEE8208</color>
+    <color name="rating_green">#FF3ECE5C</color>
+    <color name="card_background">#FF24243D</color>
+    <color name="bottom_nav_background">#FF1E1E36</color>
+</resources>

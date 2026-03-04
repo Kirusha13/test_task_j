@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_home">Главная</string>
+    <string name="tab_favorites">Избранное</string>
+    <string name="tab_account">Аккаунт</string>
+    <string name="login_title">Вход</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Пароль</string>
+    <string name="login_button">Войти</string>
+    <string name="register_link">Регистрация</string>
+    <string name="forgot_password_link">Забыли пароль?</string>
+    <string name="sort_by_date">По дате добавления</string>
+    <string name="search_hint">Поиск</string>
+    <string name="details_button">Подробнее →</string>
+    <string name="no_favorites">Нет избранных курсов</string>
+    <string name="account_stub">Аккаунт</string>
+    <string name="currency_format">%s ₽</string>
+    <string name="social_login_vk">VK</string>
+    <string name="social_login_ok">OK</string>
+</resources>
